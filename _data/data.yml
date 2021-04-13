@@ -166,16 +166,16 @@ skills:
 
     toolset:
       - name: PHP & MySQL
-        level: 75%
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 70%
+        level: 65%
 
       - name: Git & Gitflow
-        level: 50%
+        level: 40%
 
       - name: HTML5 & CSS
-        level: 35%
+        level: 30%
 
       - name: Attitude & Desire to improve
         level: 99%
