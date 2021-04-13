@@ -25,24 +25,24 @@ sidebar:
         level: B2 First, Cambridge
 
     interests:
-      - item: Fitness
+      - item: Fitness & Stay healthy
         link:
 
       - item: Reading
         link:
 
-      - item: Cooking
+      - item: Family
         link:
 
 career-profile:
     title: PHP Developer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I've been a professional developer for more than 10 years and 
+      I've been programming daily for about 20 years, and as Socrates 
+      said: 'I know that I know nothing'. I have an insane drive to 
+      every single day become a better programmer, co-worker, friend, 
+      husband, father, person, etc. We are what we repeatedly do. 
+      Excellence, then, is not an act, but a habit.
 education:
     - degree: Bachelor of computer engineering
       university: University of Malaga
@@ -94,7 +94,7 @@ experiences:
       time: December, 2009 - September, 2015
       company: Cotronic, S.A. (Grupo Cobra), Málaga
       details: |
-        	Acting primarily as the team's back-end developer, I was in charge
+          Acting primarily as the team's back-end developer, I was in charge
           of the design and maintenance of the database, using MySQL Workbench,
           and also of the creation and optimization of MySQL queries. Building
           a solid PHP back-end, exposing the data to the front-end via RESTFul
@@ -112,10 +112,9 @@ experiences:
           - MySQL
     - role: Flex-3 Developer
       time: March, 2009 - October, 2009
-      company: Accenture S.A.
-      client: Applus Services S.A.
+      company: Accenture S.A. ;
       details: |
-          o	Working as a programmer with the Flex 3 framework (Adobe) for a project
+          Working as a programmer with the Flex 3 framework (Adobe) for a project
           for the client Applus+. In this Project, we used Scrum as a development
           methodology. Tasks to be performed could be specified either in a 
           technical document or in a functional one. These tasks came with 
@@ -129,76 +128,51 @@ experiences:
           with their developments. 
           - Fast learner
           - Embraces teamwork
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: SAP Developer
+      time: June, 2008 - March, 2009
+      company: Accenture S.A. ;
+      details: |
+          Working as a SAP R/3 developer for a Givaudan project with part of the team in 
+          Malaga, Barcelona and Geneva (Switzerland). In this Project, we also used the 
+          Scrum methodology. As soon as I got to know how the project worked, I started 
+          to work directly in the client's forum-chat giving and receiving feedback 
+          directly with the client's functional analysts. During the last sprints of 
+          the project the project management decided to send me to Geneva to develop 
+          tasks with the highest priority. The client was happy with my role and 
+          I was one of the last programmers to leave the project.
+          - Experience working in an English speaking environment
+    - role: SAP Developer
+      time: June, 2008 - March, 2009
+      company: Accenture S.A. ;
+      details: |
+          Working as SAP R/3 developer for a Johnson & Johnson project with about ten
+          co-workers. Tasks to be performed could be specified either in a technical 
+          document or in a functional one. These tasks came with their estimated
+          development time. Subversion was used for version control. After the first
+          few months, I could  work directly with the functional analyses of the customer.  
+          Also, in the daily scrum, I was in charge of supporting the other developers
+          who had problems with their corresponding developments. This project was one
+          of the projects taken as a sample for the development center to obtain the 
+          CMMI 5 software quality qualification.
+          - Helping others
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP & MySQL
+        level: 75%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Git & Gitflow
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 35%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+      - name: Attitude & Desire to improve
+        level: 99%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
