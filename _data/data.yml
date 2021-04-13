@@ -12,7 +12,9 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: victor.gonzalez.sw.developer@gmail.com
+    email: |
+    victor.gonzalez.sw.developer
+           @gmail.com
     linkedin: victorgonzaleztoledo
     github: victorgonzaleztoledo
     codewars: Kleituss
@@ -39,10 +41,13 @@ career-profile:
     summary: |
       I've been a professional developer for more than 10 years and 
       I've been programming daily for about 20 years, and as Socrates 
-      said: 'I know that I know nothing'. I have an insane drive to 
+      said: 'I know that I know nothing'. 
+      
+      I have an insane drive to 
       every single day become a better programmer, co-worker, friend, 
-      husband, father, person, etc. We are what we repeatedly do. 
-      Excellence, then, is not an act, but a habit.
+      husband, father, person, etc. 
+      
+      We are what we repeatedly do, so, excellence, then, is not an act, but a habit.
 education:
     - degree: Bachelor of computer engineering
       university: University of Malaga
